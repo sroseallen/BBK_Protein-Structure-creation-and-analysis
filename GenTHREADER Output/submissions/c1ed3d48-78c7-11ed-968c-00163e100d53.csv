@@ -1,0 +1,5 @@
+job,step,type,name,version,parameters
+genthreader,0,Dataset,TDB,latest,"null"
+genthreader,0,Software,pseudo_bas,8.9,"c11.0 -C30 -O9.7 -X0.56"
+genthreader,1,Software,svm_prob,8.9,"null"
+genthreader,2,Software,pseudo_bas,8.9,"-S -p -c11.0 -C30 -O9.7 -X0.56"

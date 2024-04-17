@@ -1,0 +1,100 @@
+>sequence
+mtglldgkrilvsgiitdssiafhiarvaqeqgaqlvltgfdrlrliqritdrlpakaplleldvqneehlaslagrvte
+aigagnkldgvvhsigfmpqtgmginpffdapyadvskgihisaysyasmakallpimnpggsivgmdfdpsrampaynw
+mtvaksalesvnrfvareagkygvrsnlvaagpirtlamsaivggalgeeagaqiqlleegwdqrapigwnmkdatpvak
+tvcallsdwlpattgdiiyadggahtqll
+>sequence_91  |gi|89512212|gb|ABD74002.1| [Eval=7.58512e-115][id=88.2352941176471%][start=1 end=187]
+----------------------------------qlvltgfdrlrliqrivdrlpekaplieldvqneehlntlaqrvta
+eigegnrldgvvhsigfmpqtgmginpffdapyedvskgihisaysyaslakallpimnpggsivgmdfdpsrampaynw
+mtvaksalesvnrfvareagphgvrsnlvaagpirtlamagivggvlgdqaaeqirlleeg-------------------
+-----------------------------
+>sequence_102  |gi|490042433|ref|WP_003944803.1| [Eval=6.99122e-109][id=60.5947955390335%][start=1 end=264]
+mggllegktilvtgiitdssiafhvakvaqeqgakvlitgfdrlrlidriaqrlpqpvpaislnvqssedlaslaervre
+lapeg--idgvvhsigfaprsclg-spfmdapwedvavalevsaysysalakallpvlndnasivgmdfdparampfynw
+mgvskatleavnryvakevgvrgirsnlvssgpiktlaakaiagdstgp--gaeldklntawdgaapigwdvddrepvak
+tvctvlsdwlpgttasiiyvdggfhamv-
+>sequence_194  |gi|928473591|gb|ALE83319.1| [Eval=1.98831e-100][id=55.893536121673%][start=2 end=254]
+--glldgkrllitgvitdaslafhsakiaqeqgaevvltgfgrmrlveriamrlpkpapvveldvsnqeqldllveritp
+hlgeeprldgvlhsigfapagalgegaflnaqwedvattiqvsafslkslamackpllgpgssivgmdfdnrqawpaydw
+mgvaksalesvtrylardlgrdgirvnlvaagpvktmaaksipgfa----------afedvwderaplgwdmndpvpvak
+tvcaalsdwmptttgsmimadggvh----
+>sequence_197  |gi|516447865|ref|WP_017836777.1| [Eval=2.54509e-100][id=57.7358490566038%][start=7 end=265]
+-tgllagktilvtgvitdasiafhiakhcqlhgatviltafgrpslvkaiskrlphrpavieldvqseeelaalegrvre
+h---adslhgvvhsigfappsclg-dpfldapwkdvsvavevsaysyaalaravrpllapgasiigldfdprfsmpfynw
+msvaknaleavnryvarelgpegvrsnliaagpvktlaakaiagdalgp--ggeldlmqeewaeraplgwdvddptsvat
+tavallsdlmsattgtviyadggagt---
+>sequence_201  |gi|494730729|ref|WP_007466595.1| [Eval=5.07769e-100][id=60.7547169811321%][start=2 end=260]
+--glldgktilvsgiihdssiafsiakkaqeegaklvltgfgrlrlveaiakrlpepaplieldvqnrehldsladkvre
+h--apdgihgavhsiafaprptf--esfmgatwadvgpaleisaysyaalaqallpvlgegsslvgldfdcsravpfynw
+mgvakralesvneyvaynvgqkkirsnlvcagpistiamkai--gsaeenlgkgvkdlnegwnnrapigwdvedrtpvak
+tavallsdwlpgttgsiiyvdggvhs---
+>sequence_211  |gi|502904431|ref|WP_013139407.1| [Eval=8.74372e-100][id=60.377358490566%][start=2 end=260]
+--glldgktilvsgiihdssiafsiakkaqeegaklvltgfgrlrlveaiakrlpepaplieldvqnrehldgladkvre
+h--apdgldgavhsiafaprptf--esflgatwndvgpaleisaysyaalaqallpvlneqssligldfdcsravpfynw
+mgvakralesvneyvaynvgqkkirsnlvcagpistiamkai--gsaeenlgkgvkdlnegwnnrapigwdvedrtpvak
+tavallsdwlpgttgsiiyvdggvhs---
+>sequence_257  |gi|494903293|ref|WP_007629338.1| [Eval=1.32956e-97][id=56.2737642585551%][start=22 end=278]
+---llagrtilvtgvitdasiafhiakhcqlhgakviltaygrpslvkaiakrlperppvieldvqseddlaaladrvre
+h---adsldgvvhsigfappsclg-dpfldapwkdvavalevsaysysalakatrpllnrgasiigldfdprfsmpfynw
+msvaknaleavnryvarelgpegvrsnliaagpvktlaakaiagealgp--ggeldrmqdewdrraplgwdvddptsvat
+tavallsdlmaattgtviyadggagt---
+>sequence_323  |gi|933682113|gb|ALG84817.1| [Eval=1.07916e-94][id=57.9925650557621%][start=1 end=265]
+msgilagktilvtgiitdasiafhtakvaqeqgatviitgierlrlidriakrlpqevpaipldvtdeeslgaladkvre
+lapqg--idglvhsiafapktlmgpdpflegpgpdvaksfeisawsyaslaraalpvmneggsivgmdfdprtalpdynw
+mgvskaalesvnryvarevgeakirsnlvaagpiktlaakaisgtatdd--akklnmlneywdgaspigwnvddpgvvgt
+svctvlsdflpgttgsiiyvdgga-----
+>sequence_337  |gi|760032833|ref|WP_043715809.1| [Eval=7.12058e-93][id=54.5801526717557%][start=2 end=248]
+---lltgkrlvitgvitessiafhtarvaqsqgaevlltgfgrlslvrrladrlpkpapvveldvtsasdlaslservae
+hmpa---vdgvvhsianapascfg--dfmatpwedvasavhvsafsfkalagavaplltpgaslvgldydarvawpdydw
+mgvakaalesvtryvarelgphgvranlvaagplrtmaarsipgfa----------digetwnaraplgwdadnaepvar
+tvcallsdwlpattgsivyadggvh----
+>sequence_365  |gi|749678272|ref|WP_040276399.1| [Eval=6.95833e-91][id=51.8939393939394%][start=2 end=251]
+--gilegkrilvtgvitdssiafhvarmcqeqgatvvltgygrlslveritqrlpeappvleldvtdeehlsslaervse
+hv---dgidgivhsigftptealggn-flntswqdvatalhtstyslkalttallplmkdggsvvamdfdnsvtfpvydw
+mgvakaglastarylarylgeqdirvnlvsagplrtmaarsipg----------fdeladawpqraplgwdtsnpepaar
+avvallsdwfpattgetvhvdggfhs---
+>sequence_366  |gi|918353506|ref|WP_052407665.1| [Eval=7.41835e-91][id=52.2727272727273%][start=1 end=250]
+msgllagkrllitgvitessiafdvakiaqqqgatvvltgfgrmslveriakrlpeppvvleldvtnqehldsladrvre
+hv---dgldgvlhsigfapqscm-mgdyletpwedvatamhvsaysfasltkaclplmgegasivgldfdarfawqnynw
+mgaakaalesinrylaremgrhgirvnlvsagplrttaarsi----------pnfsemesqwnarsplgwnpadrtgaak
+tccvmlsdwmpvttgtmvwadgg------
+>sequence_374  |gi|655238096|ref|WP_028649393.1| [Eval=1.67623e-90][id=52.2727272727273%][start=2 end=251]
+--gllegkrilvtgvltdssiafhvarlaqeqgatlvltgygrmslveriakrlpetppvleldvtddeqlaslatrvge
+hv---dgidgivhsigftpqealggn-flntewrdvatamhtstfslkslttslmplmkdggsvvaldfdnsvsypiydw
+mgvaksaltstarylaryvggegirvnlvsagplstmaarsipg----------fsdlaehwpqraplgwdvsnpepaak
+avvallsdwfpattgevvhvdggfhs---
+>sequence_405  |gi|748283754|ref|WP_039825412.1| [Eval=3.05171e-89][id=56.5055762081784%][start=1 end=264]
+mggllegktilvtgiitdasiafhaaaiaqkegakviitglerlrlidriakrlpeevpaigldvtndedlrklpdelrr
+lapeg--idgvlhsiafapktlmgpdpfldgpsadaaksfeisawsyaalaravlpvmnergsivgmdfdprtampyynw
+mgvakaalesvnryvarevgakkirsnliaagpvktlaakaiagtatdd--akqlkqldtywdgaspigwd-ggaevvgk
+sivallsdwlpattgsiiyvdgga-----
+>sequence_408  |gi|737765986|ref|WP_035734334.1| [Eval=3.89914e-89][id=51.5037593984962%][start=1 end=253]
+msgllegkrvlvtgvlteasiafsvariaqeqgaavvlsgfgxxsltrriakrlptlapvveldvtdeehlaglagqvle
+hv---dgldgvlhaigfapesvlggkpfveaawsevgtalqistwslasltraalplfaekasivgldfdasvawpsydw
+mgvakaglasatrylardlgprgvrvnlvaagplrtmaaksipg----------fsqfeevwdgraplgwsvhdttpaaq
+acvallsdwfpattgeivhvdggvh----
+>sequence_413  |gi|494002790|ref|WP_006945338.1| [Eval=9.0937e-89][id=51.8939393939394%][start=2 end=249]
+--gllegkkllitgvlmdssiafhvariaqeegahvvltsfgrmkitqtisrrlpqpvevveldvtnsehldtlaerlrp
+lvg---eldgvlhsigfapq---gafdfmsatwedvstalhasayslkdlaaaceplmspggaivgltfdakfawpvydw
+mgvakaafestnrylardlgpkglrsnlvaagpirttaaksipg----------feqfeqtwderaplgwnvgdpvpaar
+acaallsdwfpattgeivhvdggvh----
+>sequence_421  |gi|664475656|ref|WP_030996326.1| [Eval=1.88036e-88][id=49.4339622641509%][start=1 end=252]
+msgilagkrvlvtgvltegsiafhaakvaqeegaevvltgfgrlslveriakrlpkpapvieldvtnkehldalpgriqe
+hfgddghidgivhsiafgpqp---vfnfleaewedvatavhvsayslkaltmacmplmprggsvvgltfdatiawpkydw
+mgvakaalestnrylardlgaknvrcnlisagpiksmaaksipg----------feelsdvwntrapigwemsdpepagr
+givallsdffprttgeivhvdggvh----
+>sequence_428  |gi|517485897|ref|WP_018656474.1| [Eval=3.30139e-88][id=50.561797752809%][start=2 end=255]
+--gilegkrvlvtgvltdasigfhvariaqeqgaevvltayprptltariakrlpapppvleldvmnpehldslagrlre
+a--gfdrldgvvhaigfapqnalggn-fletpwedvatavhastyslkaltmaclplmteggavvgldfdatkawpvydw
+mgvakaglescsrylakylgpknirvnlvaagplatmaaksipg----------fegmtdmwpqvaplgwdikdseptar
+avaallsdwfpattgeivhvdgglh----
+>sequence_429  |gi|702715076|ref|WP_033246197.1| [Eval=3.31434e-88][id=55.7620817843866%][start=1 end=264]
+mggllegktilvtgiitdasiafhaaaiaqkegarviitglerlrlidriakrlpeevpaigldvtnqedldklpdelrr
+lapeg--idgvlhsiafapktlmgpdpflegpsadaaksfeisawsyaalaravlpvmnergsivgmdfdprtampyynw
+mgvakaalesvnryvarevgakqirsnliaagpvktlaakaiagtatdd--akqlkqldtywdgaspigwd-ggaevvgk
+sivallsdwlpattgsivyvdgga-----
+>sequence_436  |gi|736583765|ref|WP_034594705.1| [Eval=9.84275e-85][id=51.5267175572519%][start=12 end=259]
+---llegkkilvtgvitdqsiafsvaklaleqgaeivltayprptlveriakrlpttppvipldvtnpeelagladkvke
+yl---ptldgvvhsigfapqtalggn-fletpwedvatalhastysykslaaallpllqpggsvvgltfdatvsypvydw
+mgvakaglesasrylarylgekgirsnlvsagplrsmaaksipg----------fekfeeswaeraplrweltnqepaak
+aviallsdwfpattgeivhvdggyh----
